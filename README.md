@@ -18,16 +18,16 @@ Screenshots:
 
 Changelog:
 
-Version 03
+Version 0.3
 * Create new card from scratch
 * Change card image
 * Spellcheck with context menu suggestions and language selection
 * Token counter can now be updated without having to save the card
 
-Version 02
+Version 0.2
 * Dark mode
 * Font size select
 
-Version 01 (initial fork)
+Version 0.1 (initial fork)
 * Larger thumbnails
 * Token count estimate
