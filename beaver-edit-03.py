@@ -1113,7 +1113,7 @@ class ImageList(QListWidget):
 class MainWindow(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("BeaverAI Char Card Editor")
+        self.setWindowTitle("BeaverAI Char Card Editor v0.3")
         self.global_filepath = "."
         self.layout = QVBoxLayout()
         self.setLayout(self.layout)
@@ -1305,3 +1305,4 @@ if __name__ == "__main__":
         print("Note: pyenchant not found. Spellcheck is disabled. Install with: pip install pyenchant")
 
     sys.exit(app.exec_())
+
