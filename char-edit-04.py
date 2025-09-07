@@ -1,4 +1,4 @@
-# I do not know python.  This is 100% vibeslop piled on top of somebody else's work.  
+# I do not know python.  This is 100% vibeslop piled on top of this original work: https://github.com/FaceDeer/pyqt_tavernai_character_editor  
 
 from PIL import Image
 from PIL.PngImagePlugin import PngImageFile, PngInfo
@@ -2229,4 +2229,5 @@ if __name__ == "__main__":
         print("Note: requests is not installed. AI-Assisted Generation will be disabled. Install with: pip install requests")
 
     sys.exit(app.exec_())
+
 
