@@ -7,16 +7,21 @@ Dependencies:
 * pyenchant (optional, but required for spellcheck)
 
 Screenshots:
+![04_0](https://github.com/user-attachments/assets/85f9de88-8429-40ee-9d4d-b58730b7247a)
 
-![ccedit1](https://github.com/user-attachments/assets/15316e9d-604f-4a76-924f-75ffa6e52fc7)
+![04_1](https://github.com/user-attachments/assets/f671b9d8-4867-4f97-ac9f-9a3b7a864469)
 
-![ccedit2](https://github.com/user-attachments/assets/d7aa0a0a-8b70-4a71-a1ce-0d552b747b80)
-
-![ccedit3](https://github.com/user-attachments/assets/62690e24-75dc-4e9a-b687-0d29151ba0d3)
+![04_2](https://github.com/user-attachments/assets/304f87b0-814a-4034-af0d-e01ef91274b6)
 
 
 
 Changelog:
+
+Version 0.4
+* AI-assisted character generation
+* Able to use ChatGPT or KCPP API for both text and image gen
+* Maximum Effort character generation templates included for several instruct formats
+* Some minor UI tweaks
 
 Version 0.3
 * Create new card from scratch
