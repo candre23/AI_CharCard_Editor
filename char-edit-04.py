@@ -2032,7 +2032,7 @@ class ImageList(QListWidget):
 class MainWindow(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("BeaverAI Char Card Editor v0.4")
+        self.setWindowTitle("AI Char Card Editor v0.4")
         self.global_filepath = "."
         self.layout = QVBoxLayout()
         self.setLayout(self.layout)
@@ -2229,3 +2229,4 @@ if __name__ == "__main__":
         print("Note: requests is not installed. AI-Assisted Generation will be disabled. Install with: pip install requests")
 
     sys.exit(app.exec_())
+
